@@ -9,5 +9,7 @@ namespace MyGitTest
     public class Class1
     {
         public int Id { set; get; }
+
+        public string Name { set; get; }
     }
 }
